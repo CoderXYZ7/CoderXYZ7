@@ -17,7 +17,7 @@ I'm a developer and student with a passion for 3D printing, gaming, programming,
 
 <p align="center">
   <code><img height="25" alt="Python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-  <code><img height="25" alt="C++" src="https://raw.githubusercontent.com/github/explore/main/topics/cplusplus/cplusplus.png"></code>
+  <code><img height="25" alt="C++" src="https://raw.githubusercontent.com/github/explore/main/topics/cplusplus/cpp.png"></code>
   <code><img height="25" alt="Docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
   <code><img height="25" alt="SQL" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
   <code><img height="25" alt="HTML" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
@@ -30,24 +30,6 @@ I'm a developer and student with a passion for 3D printing, gaming, programming,
 
 | <a href="https://github.com/CoderXYZ7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CoderXYZ7&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="CoderXYZ's GitHub Stats" /></a> | <a href="https://github.com/CoderXYZ7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderXYZ7&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-#### Featured Projects
-
-<a href="https://github.com/CoderXYZ7/Project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderXYZ7&repo=Project1&theme=default" />
-</a>
-<a href="https://github.com/CoderXYZ7/Project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderXYZ7&repo=Project2&theme=default" />
-</a>
-
-<br />
-
-**Connect with Me**
-
-<p align="center">
-  <a href="https://twitter.com/CoderXYZ7"><img height="20" alt="Twitter" src="https://raw.githubusercontent.com/github/explore/main/topics/twitter/twitter.png"></a>
-  <a href="https://linkedin.com/in/CoderXYZ7"><img height="20" alt="LinkedIn" src="https://raw.githubusercontent.com/github/explore/main/topics/linkedin/linkedin.png"></a>
-</p>
 
 ---
 
