@@ -1,6 +1,6 @@
 ---
 
-<p align="center"><a href="https://github.com/CoderXYZ7"><img width="80%" alt="Hello, I'm CoderXYZ, a passionate developer!" src="[.drawing.png](https://github.com/CoderXYZ7/CoderXYZ7/blob/main/drawing.png)" /></a></p>
+<p align="center"><a href="https://github.com/CoderXYZ7"><img width="80%" alt="Hello, I'm CoderXYZ, a passionate developer!" src="https://github.com/CoderXYZ7/CoderXYZ7/blob/main/drawing.png" /></a></p>
 
 <br />
 
