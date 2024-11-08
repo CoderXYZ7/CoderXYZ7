@@ -1,10 +1,55 @@
-👋 Hi, I'm CoderXYZ! 
+---
 
-🎓 Developer & student passionate about 3D printing, gaming, and all things tech.  
-💻 Skilled in Docker, Python, C++, HTML, SQL, and CSS.  
-🤖 Exploring AI and advanced IT concepts.
+<p align="center"><a href="https://github.com/CoderXYZ7"><img width="80%" alt="Hello, I'm CoderXYZ, a passionate developer!" src="https://user-images.githubusercontent.com/xxxx/xxxxx.png" /></a></p>
 
-🚀 Always learning, building, and sharing my projects. Check out my repos below!
+<br />
+
+I'm a developer and student with a passion for 3D printing, gaming, programming, and AI 🚀
+
+**About Me**
+
+- 💼 Currently building cool stuff with **Python, C++, Docker, and SQL**
+- 🎮 Enjoy exploring game development and creating fun, interactive projects
+- 💻 Proficient in Docker, Python, C++, HTML, SQL, CSS
+- 🌱 I’m currently diving deeper into AI and machine learning
+
+**Languages & Tools:**
+
+<p align="center">
+  <code><img height="25" alt="Python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+  <code><img height="25" alt="C++" src="https://raw.githubusercontent.com/github/explore/main/topics/cplusplus/cplusplus.png"></code>
+  <code><img height="25" alt="Docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+  <code><img height="25" alt="SQL" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
+  <code><img height="25" alt="HTML" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
+  <code><img height="25" alt="CSS" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
+</p>
+
+---
+
+#### GitHub Stats
+
+| <a href="https://github.com/CoderXYZ7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CoderXYZ7&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="CoderXYZ's GitHub Stats" /></a> | <a href="https://github.com/CoderXYZ7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderXYZ7&layout=compact&theme=default&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Featured Projects
+
+<a href="https://github.com/CoderXYZ7/Project1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderXYZ7&repo=Project1&theme=default" />
+</a>
+<a href="https://github.com/CoderXYZ7/Project2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderXYZ7&repo=Project2&theme=default" />
+</a>
+
+<br />
+
+**Connect with Me**
+
+<p align="center">
+  <a href="https://twitter.com/CoderXYZ7"><img height="20" alt="Twitter" src="https://raw.githubusercontent.com/github/explore/main/topics/twitter/twitter.png"></a>
+  <a href="https://linkedin.com/in/CoderXYZ7"><img height="20" alt="LinkedIn" src="https://raw.githubusercontent.com/github/explore/main/topics/linkedin/linkedin.png"></a>
+</p>
+
+---
 
 
 <!--
