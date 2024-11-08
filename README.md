@@ -17,7 +17,7 @@ I'm a developer and student with a passion for 3D printing, gaming, programming,
 
 <p align="center">
   <code><img height="25" alt="Python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-  <code><img height="25" alt="C++" src="https://raw.githubusercontent.com/github/explore/main/topics/cplusplus/cpp.png"></code>
+  <code><img height="25" alt="C++" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
   <code><img height="25" alt="Docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
   <code><img height="25" alt="SQL" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
   <code><img height="25" alt="HTML" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
