@@ -28,7 +28,7 @@ I'm a developer and student with a passion for 3D printing, gaming, programming,
 
 #### GitHub Stats
 
-| <a href="https://github.com/CoderXYZ7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CoderXYZ7&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="CoderXYZ's GitHub Stats" /></a> | <a href="https://github.com/CoderXYZ7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderXYZ7&layout=compact&theme=default&hide_border=true" /></a> |
+| <a href="https://github.com/CoderXYZ7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CoderXYZ7&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="CoderXYZ's GitHub Stats" /></a> | <a href="https://github.com/CoderXYZ7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderXYZ7&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ---
