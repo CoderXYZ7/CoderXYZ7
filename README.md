@@ -1,4 +1,11 @@
-## Hi there 👋
+👋 Hi, I'm CoderXYZ! 
+
+🎓 Developer & student passionate about 3D printing, gaming, and all things tech.  
+💻 Skilled in Docker, Python, C++, HTML, SQL, and CSS.  
+🤖 Exploring AI and advanced IT concepts.
+
+🚀 Always learning, building, and sharing my projects. Check out my repos below!
+
 
 <!--
 **CoderXYZ7/CoderXYZ7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
